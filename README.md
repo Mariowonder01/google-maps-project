@@ -14,4 +14,6 @@ _______________________________________________________
 
 Resources:
 We werken met zijn vieren samen in een online omgeving, waarbij we pins plaatsen op een Google Maps sheet. We linken informatie aan elke pin. Elke locatie op de map is betrokken met een vliegtuigcrash tijdens de tweede wereldoorlog. Het is de bedoeling dat we de fysieke kaart in het crashmuseum zo precies mogelijk kopieren, waardoor er geen informatie verloren gaat. In plaats van punaises op een fysieke kaart, digitaliseren we alles en zorgen we ervoor dat de gebruikers via een touchscreen zelf kunnen kiezen welke informatie er wordt weergegeven op het scherm en/of tweede monitors. 
-
+_______________________________________________________
+Deliverables:  
+Buiten de showcase van Maps brengen wij ook duidelijke logboeken en scripts. De presentatie regelen wij, het script voor het klantengesprek en een reflectie van het project leveren wij ook in hoog detail, maar met name de productowner (spreekt voor zich). 

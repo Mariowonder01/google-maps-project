@@ -20,5 +20,5 @@ _______________________________________________________
 Deliverables:  
 Buiten de showcase van Maps brengen wij ook duidelijke logboeken en scripts. De presentatie regelen wij, het script voor het klantengesprek en een reflectie van het project leveren wij ook in hoog detail, maar met name de productowner (spreekt voor zich).
 _______________________________________________________
-![coollogo_com-32098830](https://github.com/Mariowonder01/google-maps-project/assets/153738529/89fd34f9-74ea-4085-9758-4fa2f1ca1999)
+![coollogo_com-32098830](https://github.com/Mariowonder01/google-maps-project/assets/153738529/f8820ba2-bf24-4d98-90a3-4e6cb7335bc4)
 De scope

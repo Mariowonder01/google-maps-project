@@ -22,4 +22,4 @@ Buiten de showcase van Maps brengen wij ook duidelijke logboeken en scripts. De 
 _______________________________________________________
 ![image](https://github.com/Mariowonder01/google-maps-project/assets/153738529/a4e6a249-fec7-45d1-b864-e5c2bf909406)
 
-Ons doel voor dit project is om in ieder geval te demonstreren hoe je een online maps omgeving kan vastleggen. We hoeven eigenlijk alleen maar te laten zien hoe je pins moet plaatsen op een google maps kaart, en er informatie aan te linken.
+Ons doel voor dit project is om in ieder geval te demonstreren hoe je een online maps omgeving kan vastleggen. We hoeven eigenlijk alleen maar te laten zien hoe je pins moet plaatsen op een google maps kaart, en hoe er informatie aan te linken valt met behulp van code.

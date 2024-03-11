@@ -20,6 +20,6 @@ _______________________________________________________
 Deliverables:  
 Buiten de showcase van Maps brengen wij ook duidelijke logboeken en scripts. De presentatie regelen wij, het script voor het klantengesprek en een reflectie van het project leveren wij ook in hoog detail, maar met name de productowner (spreekt voor zich).
 _______________________________________________________
-![image](https://github.com/Mariowonder01/google-maps-project/assets/153738529/2ccb9ec5-d15c-4ff5-a88f-9782b3aefb9c)
+![image](https://github.com/Mariowonder01/google-maps-project/assets/153738529/d1dd2bda-0ec4-4569-bf23-d1be562aba77)
 
 Ons doel voor dit project is om in ieder geval te demonstreren hoe je een online maps omgeving kan vastleggen. We hoeven eigenlijk alleen maar te laten zien hoe je pins moet plaatsen op een google maps kaart, en hoe er informatie aan te linken valt met behulp van code.

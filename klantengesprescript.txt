@@ -1,1 +1,7 @@
-test test
+# klantengesprek
+
+Vragen:
+- Op de officiele website kun je een digitale kaart vinden, die gemaakt is met dezelfde engine als die van ons. Wisten jullie dat al?
+  - Zo niet, hebben jullie iets aan die kaart, of gaat het jullie puur om het process? Daarmee bedoelen we de instructies.
+- Willen jullie van ons nog steeds van ons weten hoe jullie zo'n kaart in elkaar willen zetten, of is het nu praktisch gezien voldoende?
+- Woensdag is wanneer de afronding plaatsvindt, zijn er nog andere/laatste dingen die wij als groep kunnen doen om jullie onderzoek nog te verbeteren?

@@ -24,3 +24,5 @@ _______________________________________________________
 
 Ons doel voor dit project is om in ieder geval te demonstreren hoe je een online maps omgeving kan vastleggen. We hoeven eigenlijk alleen maar te laten zien hoe je pins moet plaatsen op een google maps kaart, en hoe er informatie aan te linken valt met behulp van code. We spreken af met onze klanten voor een fysieke ontmoeting en demonstratie.
 Eventueel kunnen er ook schriftelijke instructies gemaakt worden, of in een YouTube video formaat, zodat er voldoende instructies zijn voor de Kajmunk studenten om zelf een Google Maps kaart in elkaar te zetten.
+_______________________________________________________
+Update: We maken instructies via word.
